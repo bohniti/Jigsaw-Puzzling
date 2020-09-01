@@ -1,6 +1,6 @@
 <div style="border-bottom:none;">
   <div align="center"> 
-    <img style="border-bottom:none;" src="./Images/readme-head.png">
+    <img style="border-bottom:none;" src="./readme-head.png">
     <h1>Jigsaw Puzzling of Historical Fragments </h1>
     <h2>Within this research project, I focus on the analysis of historic fragments. </h2>
   </div>
