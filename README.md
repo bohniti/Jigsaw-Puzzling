@@ -1,12 +1,32 @@
 <div style="border-bottom:none;">
   <div align="center"> 
-    <img style="border-bottom:none;" src="https://medieval.gumlet.net/wp-content/uploads/2017/10/Screenshot-2017-10-24-11.40.50-e1508841700644.png?compress=true&quality=80&w=900&dpr=2.0">
+    <img style="border-bottom:none;" src="./Images/readme-head.png">
     <h1>Jigsaw Puzzling of Historical Fragments </h1>
+    <h2>Within this research project, I focus on the analysis of historic fragments. </h2>
   </div>
 </div>
 
  
-Within this research project, I focus on the analysis of historic fragments. 
+
+
+## STRUCTURE
+
+```
+
++-- Code
+|   +-- Notebooks                        
+|   +-- Source                      
+|   |    +-- __init__.py
+|   |    +-- main.py
+|   +-- Tests             
+|        +-- test_main.py    
++-- Paper
++-- Presentation            
++-- requirements.txt                    
++-- README.md
++-- .gitignore              
+
+```
 
 ## RESEARCH QUESTIONS
 
@@ -39,7 +59,25 @@ FID = fragment id.
 
 ```
 
-The train set contains arround 100,000 fragments using the Historical-IR19 as base dataset, they should all contain some text even some fragments are quite small. The test set contains about 20,000 new fragments
+The **train set** contains arround **100,000 fragments** using the Historical-IR19 as base dataset, they should all contain some text even some fragments are quite small. The **test set** contains about **20,000** new fragments
+
+## Prerequisites
+
+```
+The dependencies to this project are stored in the file:
+   - requirements.txt
+
+I use python version 3.7.4
+```
+
+## Author
+
+* **Tim Löhr** - If you have questions you can contact me under [timo.bohnstedt@gmail.com](timo.bohnstedt@gmail.com)
+
+## License
+
+This project was done during my graduat studys in computer science at the university in Erlangen-Nürnberg.
+
 
 ## SOURCE 
 
