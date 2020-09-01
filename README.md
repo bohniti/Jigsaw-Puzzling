@@ -72,11 +72,11 @@ I use python version 3.7.4
 
 ## Author
 
-* **Tim Löhr** - If you have questions you can contact me under [timo.bohnstedt@gmail.com](timo.bohnstedt@gmail.com)
+* **Timo Bohnstedt** - If you have questions you can contact me under [timo.bohnstedt@gmail.com](timo.bohnstedt@gmail.com)
 
 ## License
 
-This project was done during my graduat studys in computer science at the university in Erlangen-Nürnberg.
+This project was done during my graduate studys in computer science at the University Erlangen-Nürnberg.
 
 
 ## SOURCE 
