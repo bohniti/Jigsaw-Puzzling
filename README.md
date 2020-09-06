@@ -15,6 +15,7 @@
 
 +-- Code
 |   +-- Notebooks                        
+|   |    +-- Jigsaw-Puzzling-Data-Analysis.ipynb
 |   +-- Source                      
 |   |    +-- __init__.py
 |   |    +-- main.py
@@ -27,6 +28,10 @@
 +-- .gitignore              
 
 ```
+
+## Links to Ressources
+
+- Approch to understand the Dataset as [iPython](https://github.com/bohniti/Jigsaw-Puzzling/blob/master/Code/Notebooks/Jigsaw-Puzzling-Data-Analysis.ipynb)
 
 ## RESEARCH QUESTIONS
 
@@ -45,6 +50,12 @@ The Authors of the data provided a [basline system](https://github.com/anguelos/
 
 
 ## THE DATASET
+
+### 
+  <div align="center"> 
+    <img style="border-bottom:none;" src="./readme-data.svg">
+  </div>
+
 The [HisFrag20 dataset](https://zenodo.org/record/3893807#.X05Y3y336CM) was compiled by aSteuert et al. and published for the ICFHR 2020 Competition on Image Retrieval for Historical Handwritten Fragments (HisFrag20) [1].
 
 The dataset contains a training and a test set with the following image naming-convention: 
